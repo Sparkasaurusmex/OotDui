@@ -10,7 +10,7 @@
   "packs": [],
   "url": "https://github.com/Sparkasaurusmex/OotDui/",
   "manifest": "https://raw.githubusercontent.com/Sparkasaurusmex/OotDui/master/module.json",
-  "download": "",
+  "download": "https://github.com/Sparkasaurusmex/OotDui/blob/master/OotDui.zip",
   "minimumCoreVersion": "0.5.5",
   "compatibleCoreVersion": "0.6.5"
 }
