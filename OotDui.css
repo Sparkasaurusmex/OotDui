@@ -25,8 +25,8 @@
 }
 
 #sidebar.collapsed {
-    width: 75px !important;
-    height: 410px !important;
+    width: 65px !important;
+    height: 372px !important;
     padding-left: 5px;
     border: 15px solid transparent;
     border-image-source: url(/modules/OotDui/ui/img/panel1.webp);
@@ -235,6 +235,7 @@ i.fa-caret-left::before{
 /* #region Chat Tab*/
 .message{
     background-image: url("/modules/OotDui/ui/img/MarbleBlue.webp") !important;
+
 }
 .message-sender {
     color: darkred;
@@ -244,6 +245,8 @@ i.fa-caret-left::before{
 }
 #chat-message{
     background-image: url(/modules/OotDui/ui/img/MarbleBlue.webp) !important;
+    box-shadow: 0px 0px 6px 1px #818488 inset;
+    border-radius: 5px;
 }
 
 .polyglot-lang-select select {
@@ -452,6 +455,42 @@ li.compendium-pack{
   border-image-repeat: repeat;
   background-image: url("/modules/OotDui/ui/img/MarbleDark.webp");
 
+}
+.window-app .window-content {
+  background: url(/modules/OotDui/ui/img/parchment3.png) repeat;
+  box-shadow: 0px 0px 3px 1px inset;
+}
+.dnd5e.sheet .window-content {
+  background: url(/modules/OotDui/ui/img/parchment3.png) repeat;
+  padding: 3px;
+}
+.dnd5e.sheet.actor.npc {
+    min-width: 600px;
+    min-height: 715px;
+}
+.dnd5e.sheet.actor.character {
+    min-width: 720px;
+    min-height: 740px;
+}
+.dialog .dialog-buttons button {
+  background-image: url(/modules/OotDui/ui/img/dialogbutton.png);
+  border: 2px groove #f0f0e0;
+  margin: 0 5px 0 0;
+}
+.window-app .window-header {
+    border-bottom: 0px solid #000;
+    box-shadow: 0 0 2px 0px #a29e9e inset;
+
+}
+::-webkit-scrollbar-thumb {
+    outline: none;
+    border-radius: 2px;
+    background: #e2d260;
+    border: 1px solid #a29023;
+}
+::-webkit-scrollbar-track {
+    border-radius: 2px;
+    background: #3a3c26;
 }
 
 
