@@ -1,0 +1,7 @@
+## 0.2 update
+
+Changed the settings button to a bronze cog wheel.
+
+Made window borders repeat instead of stretch.
+
+Fixed compatibility with Compendium Folders module.
