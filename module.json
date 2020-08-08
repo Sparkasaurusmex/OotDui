@@ -2,7 +2,7 @@
   "name": "OotDui",
   "title": "Odyssey of the Dragonlords UI",
   "description": "An Odyssey of the Dragonlords flavored UI for Foundry VTT.  Based on Fantasy UI by iotech.",
-  "version": "0.1",
+  "version": "0.2",
   "author": "Sparkasaurusmex",
   "scripts": [ "OotDui.js" ],
   "styles": [ "OotDui.css" ],
