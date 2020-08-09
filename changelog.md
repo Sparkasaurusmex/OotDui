@@ -15,3 +15,7 @@ Made scroll track more visible.
 Made scroll bar reflect theme.
 
 General tweaks to make stuff look nicer.
+
+## 0.4 update
+
+Added compatibility for D&D 5e Dark Mode module.
