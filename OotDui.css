@@ -29,7 +29,7 @@
     height: 372px !important;
     padding-left: 5px;
     border: 15px solid transparent;
-    border-image-source: url(/modules/OotDui/ui/img/panel1.webp);
+    border-image-source: url("/modules/OotDui/ui/img/panel1.webp");
     border-image-slice: 35 fill;
     background-position: center !important;
     background-size: 100% 100%!important;
@@ -491,6 +491,32 @@ li.compendium-pack{
 ::-webkit-scrollbar-track {
     border-radius: 2px;
     background: #3a3c26;
+}
+.app.sidebar-popout {
+    border: 1px solid #e9ff00;
+}
+.dark-mode .window-app .window-content {
+  background: url(/modules/OotDui/ui/img/BG2.png) repeat;
+}
+.dark-mode .dnd5e.sheet .window-content {
+  background: url(/modules/OotDui/ui/img/BG2.png) repeat;
+}
+.dark-mode .dialog .dialog-buttons button {
+  background-image: url(/modules/OotDui/ui/img/dialogbuttonDark.png);
+}
+.dark-mode .message{
+    background-image: url("/modules/OotDui/ui/img/BG2.png") !important;
+}
+.dark-mode #chat-message{
+    background-image: url(/modules/OotDui/ui/img/BG2.png) !important;
+}
+
+.dark-mode .polyglot-lang-select select {
+    background: url(/modules/OotDui/ui/img/BG2.png) repeat !important;
+}
+.dark-mode .dnd5e.sheet.actor ul.attributes li.attribute .attribute-footer {
+
+    font-size: 11px;
 }
 
 
