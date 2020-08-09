@@ -496,23 +496,23 @@ li.compendium-pack{
     border: 1px solid #e9ff00;
 }
 .dark-mode .window-app .window-content {
-  background: url(/modules/OotDui/ui/img/BG2.png) repeat;
+  background: url(/modules/OotDui/ui/img/BG2.webp) repeat;
 }
 .dark-mode .dnd5e.sheet .window-content {
-  background: url(/modules/OotDui/ui/img/BG2.png) repeat;
+  background: url(/modules/OotDui/ui/img/BG2.webp) repeat;
 }
 .dark-mode .dialog .dialog-buttons button {
   background-image: url(/modules/OotDui/ui/img/dialogbuttonDark.png);
 }
 .dark-mode .message{
-    background-image: url("/modules/OotDui/ui/img/BG2.png") !important;
+    background-image: url("/modules/OotDui/ui/img/BG2.webp") !important;
 }
 .dark-mode #chat-message{
-    background-image: url(/modules/OotDui/ui/img/BG2.png) !important;
+    background-image: url(/modules/OotDui/ui/img/BG2.webp) !important;
 }
 
 .dark-mode .polyglot-lang-select select {
-    background: url(/modules/OotDui/ui/img/BG2.png) repeat !important;
+    background: url(/modules/OotDui/ui/img/BG2.webp) repeat !important;
 }
 .dark-mode .dnd5e.sheet.actor ul.attributes li.attribute .attribute-footer {
 
