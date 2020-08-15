@@ -1,7 +1,10 @@
 ## 0.5 update
 Fixed border appearing when window is minimized.
+
 Reduced size of scene navigation buttons.
+
 Made buttons from Calendar/Weather module more visible.
+
 
 ## 0.4 update
 Added compatibility for D&D 5e Dark Mode module.
