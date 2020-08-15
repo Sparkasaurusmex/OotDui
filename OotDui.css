@@ -482,6 +482,9 @@ li.compendium-pack{
     box-shadow: 0 0 2px 0px #a29e9e inset;
 
 }
+.window-app.minimized{
+    border: 0px solid #000000;
+}
 ::-webkit-scrollbar-thumb {
     outline: none;
     border-radius: 2px;
@@ -518,6 +521,63 @@ li.compendium-pack{
 
     font-size: 11px;
 }
-
-
 /* #endregion */
+/* Calendar */
+#calendar {
+    background: rgba(0, 0, 0, 0.7);
+}
+#calendar-btn-day {
+    color: #bdbd7e;
+}
+#calendar-btn-night {
+    color: lightblue;
+}
+#calendar-btn-quick {
+    color: #a03448;
+}
+#calendar-btn-long {
+    color: #a03448;
+}
+#calendar-btn-fiveMin {
+    color: #a03448;
+}
+#calendar-btn-min {
+    color: #a03448;
+}
+#calendar-events {
+    color: whitesmoke;
+}
+#calendar-events:hover {
+    color: #f1ff1a;
+}
+#calendar-weather {
+    color: #aba9a9 !important;
+}
+#calendar-weather:hover {
+  color: white !important;
+}
+#calendar-btn-sec {
+    color: #a03448 !important;
+    cursor: pointer;
+}
+#calendar-btn-sec:hover {
+  color:white !important;
+}
+#calendar-btn-halfMin {
+    color: #a03448 !important;
+    cursor: pointer;
+}
+#calendar-btn-halfMin:hover{
+  color:white !important;
+}
+
+/* Navigation Buttons */
+#navigation .nav-item {
+    line-height: 30px;
+    padding: 0px 1px;
+    margin: 0 5px 8px 0;
+    border-radius: 0px;
+}
+#navigation .nav-item:hover {
+  box-shadow: inset 0px 0px 0px 1px white;
+}
