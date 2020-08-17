@@ -359,8 +359,8 @@ i.fa-caret-left::before{
     background-position: center !important;
     background-size: 100% 55px!important;
     background-repeat: no-repeat !important;
-    padding-top: 15px;
-    padding-bottom: 10px;
+    padding-top: 4px;
+    padding-bottom: 2px;
     color: white;
     padding-left: 25px;
 }
@@ -412,6 +412,8 @@ li.compendium-folder > .compendium-folder-header {
 }
 li.compendium-pack{
   background: url(/modules/OotDui/ui/img/CompFolders.png) repeat;
+  margin: 0px;
+  padding: 2px 0;
 }
 /* #endregion */
 
@@ -581,3 +583,4 @@ li.compendium-pack{
 #navigation .nav-item:hover {
   box-shadow: inset 0px 0px 0px 1px white;
 }
+
