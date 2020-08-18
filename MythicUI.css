@@ -13,7 +13,7 @@
     overflow: hidden;
     margin: 0;
     border: 26px solid transparent;
-    border-image-source: url(/modules/OotDui/ui/img/panel1.webp);
+    border-image-source: url(/modules/MythicUI/ui/img/panel1.webp);
     border-image-slice: 26 fill;
     background-position: center !important;
     background-size: 300px 100%!important;
@@ -29,7 +29,7 @@
     height: 372px !important;
     padding-left: 5px;
     border: 15px solid transparent;
-    border-image-source: url("/modules/OotDui/ui/img/panel1.webp");
+    border-image-source: url("/modules/MythicUI/ui/img/panel1.webp");
     border-image-slice: 35 fill;
     background-position: center !important;
     background-size: 100% 100%!important;
@@ -50,7 +50,7 @@ i.fa-caret-right::before{
 }
 
 .fa-caret-right{
-    background-image: url("/modules/OotDui/ui/img/inout.webp") !important;
+    background-image: url("/modules/MythicUI/ui/img/inout.webp") !important;
     width: 25px;
     height: 25px;
     display: inline-block !important;
@@ -67,7 +67,7 @@ i.fa-caret-left::before{
 }
 
 .fa-caret-left{
-    background-image: url("/modules/OotDui/ui/img/inout.webp") !important;
+    background-image: url("/modules/MythicUI/ui/img/inout.webp") !important;
     width: 25px;
     height: 25px;
     display: inline-block !important;
@@ -81,7 +81,7 @@ i.fa-caret-left::before{
 
 #sidebar #sidebar-tabs i.fa-comments {
     content: "";
-    background-image: url("/modules/OotDui/ui/img/speechbubble.webp") !important;
+    background-image: url("/modules/MythicUI/ui/img/speechbubble.webp") !important;
     width: 25px !important;
     height: 25px !important;
     display: inline-block !important;
@@ -107,7 +107,7 @@ i.fa-caret-left::before{
 
 #sidebar #sidebar-tabs i.fa-fist-raised {
     content: "";
-    background-image: url("/modules/OotDui/ui/img/Xiphos_Kopis.webp") !important;
+    background-image: url("/modules/MythicUI/ui/img/Xiphos_Kopis.webp") !important;
     width: 25px !important;
     height: 25px !important;
     display: inline-block !important;
@@ -121,7 +121,7 @@ i.fa-caret-left::before{
 
 #sidebar #sidebar-tabs i.fa-map {
     content: "";
-    background-image: url("/modules/OotDui/ui/img/AtlasWorld.webp") !important;
+    background-image: url("/modules/MythicUI/ui/img/AtlasWorld.webp") !important;
     width: 25px !important;
     height: 25px !important;
     display: inline-block !important;
@@ -135,7 +135,7 @@ i.fa-caret-left::before{
 
 #sidebar #sidebar-tabs i.fa-users {
     content: "";
-    background-image: url("/modules/OotDui/ui/img/SGI_91.webp") !important;
+    background-image: url("/modules/MythicUI/ui/img/SGI_91.webp") !important;
     width: 25px !important;
     height: 25px !important;
     display: inline-block !important;
@@ -149,7 +149,7 @@ i.fa-caret-left::before{
 
 #sidebar #sidebar-tabs i.fa-suitcase {
     content: "";
-    background-image: url("/modules/OotDui/ui/img/Urn.webp") !important;
+    background-image: url("/modules/MythicUI/ui/img/Urn.webp") !important;
     width: 25px !important;
     height: 25px !important;
     display: inline-block !important;
@@ -163,7 +163,7 @@ i.fa-caret-left::before{
 
 #sidebar #sidebar-tabs i.fa-book-open {
     content: "";
-    background-image: url("/modules/OotDui/ui/img/ClayTablet.webp") !important;
+    background-image: url("/modules/MythicUI/ui/img/ClayTablet.webp") !important;
     width: 25px !important;
     height: 25px !important;
     display: inline-block !important;
@@ -177,7 +177,7 @@ i.fa-caret-left::before{
 
 #sidebar #sidebar-tabs i.fa-th-list {
     content: "";
-    background-image: url("/modules/OotDui/ui/img/AncientDice.webp") !important;
+    background-image: url("/modules/MythicUI/ui/img/AncientDice.webp") !important;
     width: 25px !important;
     height: 25px !important;
     display: inline-block !important;
@@ -191,7 +191,7 @@ i.fa-caret-left::before{
 
 #sidebar #sidebar-tabs i.fa-music {
     content: "";
-    background-image: url("/modules/OotDui/ui/img/mi_t_03.webp") !important;
+    background-image: url("/modules/MythicUI/ui/img/mi_t_03.webp") !important;
     width: 25px !important;
     height: 25px !important;
     display: inline-block !important;
@@ -205,7 +205,7 @@ i.fa-caret-left::before{
 
 #sidebar #sidebar-tabs i.fa-atlas {
     content: "";
-    background-image: url("/modules/OotDui/ui/img/CompendiumIcon.webp") !important;
+    background-image: url("/modules/MythicUI/ui/img/CompendiumIcon.webp") !important;
     width: 25px !important;
     height: 25px !important;
     display: inline-block !important;
@@ -219,7 +219,7 @@ i.fa-caret-left::before{
 
 #sidebar #sidebar-tabs i.fa-cogs {
     content: "";
-    background-image: url("/modules/OotDui/ui/img/cogwheel.png") !important;
+    background-image: url("/modules/MythicUI/ui/img/cogwheel.png") !important;
     width: 25px !important;
     height: 25px !important;
     display: inline-block !important;
@@ -234,7 +234,7 @@ i.fa-caret-left::before{
 
 /* #region Chat Tab*/
 .message{
-    background-image: url("/modules/OotDui/ui/img/MarbleBlue.webp") !important;
+    background-image: url("/modules/MythicUI/ui/img/MarbleBlue.webp") !important;
 
 }
 .message-sender {
@@ -244,7 +244,7 @@ i.fa-caret-left::before{
     text-decoration: underline;
 }
 #chat-message{
-    background-image: url(/modules/OotDui/ui/img/MarbleBlue.webp) !important;
+    background-image: url(/modules/MythicUI/ui/img/MarbleBlue.webp) !important;
     box-shadow: 0px 0px 6px 1px #818488 inset;
     border-radius: 5px;
 }
@@ -258,12 +258,12 @@ i.fa-caret-left::before{
     height: 24px;
     top: 7px;
     padding-top: 0px;
-    background: url(/modules/OotDui/ui/img/MarbleBlue.webp) repeat !important;
+    background: url(/modules/MythicUI/ui/img/MarbleBlue.webp) repeat !important;
     background-position-x: 0%;
     background-position-y: 0%;
     background-position: initial;
     box-shadow: inset 0 0 10px #000000;
-    border-image: url(/modules/OotDui/ui/img/chat-controls-border.webp) 4 repeat;
+    border-image: url(/modules/MythicUI/ui/img/chat-controls-border.webp) 4 repeat;
     border-image-width: 4px;
     border-image-outset: 3px 2px 2px 2px;
     color: #520000;
@@ -287,19 +287,19 @@ i.fa-caret-left::before{
     height: 24px;
     top: 7px;
     padding-top: 3px;
-    background: url(/modules/OotDui/ui/img/MarbleBlue.webp) repeat;
+    background: url(/modules/MythicUI/ui/img/MarbleBlue.webp) repeat;
     background-position-x: 0%;
     background-position-y: 0%;
     background-position: initial;
     box-shadow: inset 0 0 10px #000000;
-    border-image: url(/modules/OotDui/ui/img/chat-controls-border.webp) 4 repeat;
+    border-image: url(/modules/MythicUI/ui/img/chat-controls-border.webp) 4 repeat;
     border-image-width: 4px;
     border-image-outset: 3px 2px 2px 2px;
     color: #520000;
 }
 
 #combat-controls .combat-control{
-    background-image: url(/modules/OotDui/ui/img/buttonredlight.webp);
+    background-image: url(/modules/MythicUI/ui/img/buttonredlight.webp);
     text-align: center;
     background-position: center !important;
     background-size: 260px 100%!important;
@@ -317,12 +317,12 @@ i.fa-caret-left::before{
     height: 24px;
     top: 7px;
     padding-top: 3px;
-    background: url(/modules/OotDui/ui/img/MarbleBlue.webp) repeat;
+    background: url(/modules/MythicUI/ui/img/MarbleBlue.webp) repeat;
     background-position-x: 0%;
     background-position-y: 0%;
     background-position: initial;
     box-shadow: inset 0 0 10px #000000;
-    border-image: url(/modules/OotDui/ui/img/chat-controls-border.webp) 4 repeat;
+    border-image: url(/modules/MythicUI/ui/img/chat-controls-border.webp) 4 repeat;
     border-image-width: 4px;
     border-image-outset: 3px 2px 2px 2px;
     color: #520000;
@@ -339,7 +339,7 @@ i.fa-caret-left::before{
 }
 
 .sidebar-tab .directory-footer button{
-    background-image: url(/modules/OotDui/ui/img/buttongreenlight.webp);
+    background-image: url(/modules/MythicUI/ui/img/buttongreenlight.webp);
     text-align: center;
     background-position: center !important;
     background-size: 100% 100% !important;
@@ -354,7 +354,7 @@ i.fa-caret-left::before{
 
 /* #region Folders as buttons */
 .sidebar-tab .folder .folder-header {
-    background-image: url(/modules/OotDui/ui/img/buttonlight3.webp)  !important;
+    background-image: url(/modules/MythicUI/ui/img/buttonlight3.webp)  !important;
     text-align: left !important;
     background-position: center !important;
     background-size: 100% 55px!important;
@@ -389,13 +389,13 @@ i.fa-caret-left::before{
     top: 7px;
     padding-top: 20px;
     padding-left: 30px;
-    background: url(/modules/OotDui/ui/img/buttonredlight.webp) no-repeat;
+    background: url(/modules/MythicUI/ui/img/buttonredlight.webp) no-repeat;
     background-position-x: 0%;
     background-size: 100% 55px;
     background-position-y: 0%;
     background-position: initial;
     box-shadow: inset 0 0 10px #000000;
-    border-image: url(/modules/OotDui/ui/img/chat-controls-border.png) 4 repeat;
+    border-image: url(/modules/MythicUI/ui/img/chat-controls-border.png) 4 repeat;
     border-image-width: 4px;
     border-image-outset: 3px 2px 2px 2px;
     color: #eeede0;
@@ -411,7 +411,7 @@ li.compendium-folder > .compendium-folder-header {
     height: 22px;
 }
 li.compendium-pack{
-  background: url(/modules/OotDui/ui/img/CompFolders.png) repeat;
+  background: url(/modules/MythicUI/ui/img/CompFolders.png) repeat;
   margin: 0px;
   padding: 2px 0;
 }
@@ -452,18 +452,18 @@ li.compendium-pack{
 }
 .window-app {
   border: 20px solid transparent;
-  border-image-source: url(/modules/OotDui/ui/img/panel2.webp);
+  border-image-source: url(/modules/MythicUI/ui/img/panel2.webp);
   border-image-slice: 20 fill;
   border-image-repeat: repeat;
-  background-image: url("/modules/OotDui/ui/img/MarbleDark.webp");
+  background-image: url("/modules/MythicUI/ui/img/MarbleDark.webp");
 
 }
 .window-app .window-content {
-  background: url(/modules/OotDui/ui/img/parchment3.png) repeat;
+  background: url(/modules/MythicUI/ui/img/parchment3.png) repeat;
   box-shadow: 0px 0px 3px 1px inset;
 }
 .dnd5e.sheet .window-content {
-  background: url(/modules/OotDui/ui/img/parchment3.png) repeat;
+  background: url(/modules/MythicUI/ui/img/parchment3.png) repeat;
   padding: 3px;
 }
 .dnd5e.sheet.actor.npc {
@@ -475,7 +475,7 @@ li.compendium-pack{
     min-height: 740px;
 }
 .dialog .dialog-buttons button {
-  background-image: url(/modules/OotDui/ui/img/dialogbutton.png);
+  background-image: url(/modules/MythicUI/ui/img/dialogbutton.png);
   background-size:cover;
   border: 2px groove #f0f0e0;
   margin: 0 5px 0 0;
@@ -502,24 +502,24 @@ li.compendium-pack{
     border: 1px solid #e9ff00;
 }
 .dark-mode .window-app .window-content {
-  background: url(/modules/OotDui/ui/img/BG2.webp) repeat;
+  background: url(/modules/MythicUI/ui/img/BG2.webp) repeat;
 }
 .dark-mode .dnd5e.sheet .window-content {
-  background: url(/modules/OotDui/ui/img/BG2.webp) repeat;
+  background: url(/modules/MythicUI/ui/img/BG2.webp) repeat;
 }
 .dark-mode .dialog .dialog-buttons button {
-  background-image: url(/modules/OotDui/ui/img/dialogbuttonDark.png);
+  background-image: url(/modules/MythicUI/ui/img/dialogbuttonDark.png);
   background-size: cover;
 }
 .dark-mode .message{
-    background-image: url("/modules/OotDui/ui/img/BG2.webp") !important;
+    background-image: url("/modules/MythicUI/ui/img/BG2.webp") !important;
 }
 .dark-mode #chat-message{
-    background-image: url(/modules/OotDui/ui/img/BG2.webp) !important;
+    background-image: url(/modules/MythicUI/ui/img/BG2.webp) !important;
 }
 
 .dark-mode .polyglot-lang-select select {
-    background: url(/modules/OotDui/ui/img/BG2.webp) repeat !important;
+    background: url(/modules/MythicUI/ui/img/BG2.webp) repeat !important;
 }
 .dark-mode .dnd5e.sheet.actor ul.attributes li.attribute .attribute-footer {
 
