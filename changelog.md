@@ -1,6 +1,9 @@
 ## 0.7 update
 fixed some CSS
-Changed module name to be less world specific.  MythicUI was created with Odyssey of the Dragonlords in mind, but is appropriate for any Ancient Greek style setting, such as Mythic Odyssey of Theros, Cycle of Cerberus, as well as OotD.
+
+fixed compatibility with Combat Utility Belt's CUBputer.
+
+Changed module name to be less world specific. MythicUI was created with Odyssey of the Dragonlords in mind, but is appropriate for any Ancient Greek style setting, such as Mythic Odyssey of Theros, Cycle of Cerberus, as well as OotD.
 
 ## 0.6 update
 Made directory folders smaller per user request.
