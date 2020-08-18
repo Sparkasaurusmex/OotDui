@@ -476,6 +476,7 @@ li.compendium-pack{
 }
 .dialog .dialog-buttons button {
   background-image: url(/modules/OotDui/ui/img/dialogbutton.png);
+  background-size:cover;
   border: 2px groove #f0f0e0;
   margin: 0 5px 0 0;
 }
@@ -508,6 +509,7 @@ li.compendium-pack{
 }
 .dark-mode .dialog .dialog-buttons button {
   background-image: url(/modules/OotDui/ui/img/dialogbuttonDark.png);
+  background-size: cover;
 }
 .dark-mode .message{
     background-image: url("/modules/OotDui/ui/img/BG2.webp") !important;
@@ -583,4 +585,7 @@ li.compendium-pack{
 #navigation .nav-item:hover {
   box-shadow: inset 0px 0px 0px 1px white;
 }
-
+/* Combat Utility Belt compatibility fix */
+.cub-puter-crt .window-content {
+    background: black !important;
+}
