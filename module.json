@@ -1,16 +1,16 @@
 {
-  "name": "OotDui",
-  "title": "Odyssey of the Dragonlords UI",
-  "description": "An Odyssey of the Dragonlords flavored UI for Foundry VTT.  Based on Fantasy UI by iotech.",
-  "version": "0.6",
+  "name": "MythicUI",
+  "title": "MythicUI Formerly Known As OotDui",
+  "description": "An Ancient Greek flavored UI for Foundry VTT.",
+  "version": "0.7",
   "author": "Sparkasaurusmex",
-  "scripts": [ "OotDui.js" ],
-  "styles": [ "OotDui.css" ],
+  "scripts": [ "MythicUI.js" ],
+  "styles": [ "MythicUI.css" ],
   "esmodules": [],
   "packs": [],
   "url": "https://github.com/Sparkasaurusmex/OotDui/",
   "manifest": "https://raw.githubusercontent.com/Sparkasaurusmex/OotDui/master/module.json",
-  "download": "https://github.com/Sparkasaurusmex/OotDui/releases/download/0.6/OotDui.zip",
+  "download": "https://github.com/Sparkasaurusmex/OotDui/releases/download/0.7/MythicUI.zip",
   "minimumCoreVersion": "0.5.5",
   "compatibleCoreVersion": "0.6.5"
 }
