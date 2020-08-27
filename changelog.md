@@ -1,3 +1,7 @@
+## 0.8 update
+enhanced appearance of directory folders and subfolders.  Items should appear more obviously within their folders.
+
+
 ## 0.7 update
 fixed some CSS
 
