@@ -419,6 +419,14 @@ li.compendium-pack{
   padding: 2px 0;
 }
 /* #endregion */
+/* scene thumb size */
+#scenes .scene h3 {
+    line-height: 43px !important;
+    text-shadow: 2px 1px 2px #000;
+}
+#scenes .scene {
+    height: 50px !important;
+}
 
 /* #region Remove speaker name background colors in Chat window */
 #chat-log .message .message-header .message-sender {
@@ -600,7 +608,7 @@ li.compendium-pack{
     height: 70px;
 }
 #token-hud .status-effects {
-    width: none;
+    width: auto;
     grid-template-columns: 50px 50px 50px 50px;
 }
 #token-hud .status-effects .effect-control {
