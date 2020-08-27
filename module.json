@@ -2,7 +2,7 @@
   "name": "MythicUI",
   "title": "MythicUI",
   "description": "An Ancient Greek flavored UI for Foundry VTT.",
-  "version": "0.7",
+  "version": "0.8",
   "author": "Sparkasaurusmex",
   "scripts": [ "MythicUI.js" ],
   "styles": [ "MythicUI.css" ],
@@ -10,7 +10,7 @@
   "packs": [],
   "url": "https://github.com/Sparkasaurusmex/OotDui/",
   "manifest": "https://raw.githubusercontent.com/Sparkasaurusmex/OotDui/master/module.json",
-  "download": "https://github.com/Sparkasaurusmex/OotDui/releases/download/0.7/MythicUI.zip",
+  "download": "https://github.com/Sparkasaurusmex/OotDui/releases/download/0.8/MythicUI.zip",
   "minimumCoreVersion": "0.5.5",
   "compatibleCoreVersion": "0.6.5"
 }
