@@ -1,3 +1,6 @@
+## 0.8.1 hotfix
+scene thumbnail size was still too large.  Condition icon background wasn't displaying properly.
+
 ## 0.8 update
 enhanced appearance of directory folders and subfolders.  Items should appear more obviously within their folders.
 
