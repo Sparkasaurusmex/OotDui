@@ -263,7 +263,7 @@ i.fa-caret-left::before{
     background-position-y: 0%;
     background-position: initial;
     box-shadow: inset 0 0 10px #000000;
-    border-image: url(/modules/MythicUI/ui/img/chat-controls-border.webp) 4 repeat;
+    border-image: url(/modules/MythicUI/ui/img/chat-controls-border.png) 4 repeat;
     border-image-width: 4px;
     border-image-outset: 3px 2px 2px 2px;
     color: #520000;
@@ -292,7 +292,7 @@ i.fa-caret-left::before{
     background-position-y: 0%;
     background-position: initial;
     box-shadow: inset 0 0 10px #000000;
-    border-image: url(/modules/MythicUI/ui/img/chat-controls-border.webp) 4 repeat;
+    border-image: url(/modules/MythicUI/ui/img/chat-controls-border.png) 4 repeat;
     border-image-width: 4px;
     border-image-outset: 3px 2px 2px 2px;
     color: #520000;
@@ -322,7 +322,7 @@ i.fa-caret-left::before{
     background-position-y: 0%;
     background-position: initial;
     box-shadow: inset 0 0 10px #000000;
-    border-image: url(/modules/MythicUI/ui/img/chat-controls-border.webp) 4 repeat;
+    border-image: url(/modules/MythicUI/ui/img/chat-controls-border.png) 4 repeat;
     border-image-width: 4px;
     border-image-outset: 3px 2px 2px 2px;
     color: #520000;
@@ -375,8 +375,11 @@ i.fa-caret-left::before{
     text-align: left !important;
     padding-left: 25px;
 }
-.subdirectory .folder {
-    border-left: 2px solid #585858 !important;
+
+.subdirectory {
+    border-left: 1px solid gray !important;
+    border-bottom: 1px solid gray !important;
+    margin-left: 20px !important;
 }
 
 /* #endregion */
@@ -588,4 +591,22 @@ li.compendium-pack{
 /* Combat Utility Belt compatibility fix */
 .cub-puter-crt .window-content {
     background: black !important;
+}
+
+/* ConditionIconHoverZoom */
+#token-hud .status-effects .effect-control:hover {
+    opacity: 1;
+    width: 70px;
+    height: 70px;
+}
+#token-hud .status-effects {
+    width: none;
+    grid-template-columns: 50px 50px 50px 50px;
+}
+#token-hud .status-effects .effect-control {
+    width: 50px; height: 50px;
+}
+img.effect-control:hover {
+    max-width: 200%;
+    max-height: 200%;
 }
