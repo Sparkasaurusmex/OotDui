@@ -1,3 +1,8 @@
+## 0.8.2
+Fixed Midi Quality of Life menu getting truncated.
+Fixed file picker not showing the edge of the right-most image when viewing the thumbnail display.
+Fixed the module settings having double scroll bars when using TidyUI.
+
 ## 0.8.1 hotfix
 scene thumbnail size was still too large.  Condition icon background wasn't displaying properly.
 
