@@ -618,3 +618,12 @@ img.effect-control:hover {
     max-width: 200%;
     max-height: 200%;
 }
+#midi-qol-config {
+  width: 560px !important;
+}
+#client-settings {
+  border: 0px !important;
+}
+.filepicker {
+  width: 560px !important;
+}
