@@ -1,3 +1,7 @@
+## 0.8.3
+small change to stop aggressive resizing of scene thumbnails.
+
+
 ## 0.8.2
 Fixed Midi Quality of Life menu getting truncated.
 Fixed file picker not showing the edge of the right-most image when viewing the thumbnail display.
