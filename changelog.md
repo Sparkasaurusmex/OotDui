@@ -1,3 +1,6 @@
+## 0.9
+More pointer feedback.  General Beautification.  More consistent color palette.
+
 ## 0.8.3
 small change to stop aggressive resizing of scene thumbnails.
 
